@@ -1,0 +1,1 @@
+Download the .html and double click  it and you are ready to experiment with Axiom a math based programming language. There is a language reference section many examples, the language associates with .axiom files plus there is a surprise me button for an Easter egg game with our hero Peter. 
